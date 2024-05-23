@@ -1,0 +1,27 @@
+/* Estilo básico para o corpo do documento */
+body {
+    background-color: #121212; /* Cor de fundo escura */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centraliza o canvas horizontalmente */
+    align-items: center; /* Centraliza o canvas verticalmente */
+    height: 100vh; /* Faz o body ocupar toda a altura da viewport */
+    font-family: 'Arial', sans-serif; /* Fonte padrão */
+}
+
+/* Estilo para o canvas */
+#gameCanvas {
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.8); /* Sombra suave ao redor do canvas */
+    border-radius: 10px; /* Bordas arredondadas para o canvas */
+    background-color: #181818; /* Cor de fundo para o canvas */
+}
+
+/* Estilo para centralizar o conteúdo e adicionar espaço */
+.container {
+    width: 100%;
+    max-width: 1920px; /* Largura máxima do container */
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
