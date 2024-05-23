@@ -1,8 +1,6 @@
-projeto ainda em desenvolvimento! proximo passo adicionar a rede neural e o algoritmo genetico para treinar o foguete a jogar o jogo
+A Rede neural implementada foi a NEAT, ao longo das geracoes os foguetes aprendem a manter o foguete no centro da mira vermelha que se movimenta no jogo, voce pode modificar o codigo do jogo para deixar ele mais dificil para a rede neural como adicionar obstaculos ou algo do tipo !
+![Captura de tela 2024-05-23 095738](https://github.com/Brunexgmaer09/Rocket-Game/assets/39810796/9b612348-aba9-4dcf-abf2-4c3a2d0d1ed2)
 
-OBJETIVO DO JOGO: atualmente é fazer o foguete ficar 10 segundos em cima da mira "coleta" para vencer o jogo
-
-![Captura de tela 2024-01-09 091418](https://github.com/Brunexgmaer09/SSHPLUS/assets/39810796/8d34ec6d-6f2a-4abb-a06e-193a9b2299a3)
 
 
 https://github.com/Brunexgmaer09/SSHPLUS/assets/39810796/477a8d5b-b332-4234-af20-10dc6b5cd74b
